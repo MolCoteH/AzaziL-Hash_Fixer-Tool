@@ -56,9 +56,9 @@ The **AzaziL-Hash_Fixer-Tool** can be used in various scenarios where you encoun
 
 Please note that this tool is designed specifically for repairing damaged hash values and may not be suitable for other types of data manipulation or processing.
 
-## License
+## Author
 
-This program is released under the [MIT License](LICENSE.md).
+AzaziL
 
 ## Contribution
 
