@@ -61,10 +61,6 @@ Please note that this tool is designed specifically for repairing damaged hash v
 
 AzaziL
 
-## Contribution
-
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request on GitHub.
-
 ## Disclaimer
 
 The **AzaziL-Hash_Fixer-Tool** is provided as-is without any warranty. Use it at your own risk. The author and contributors are not responsible for any damages or losses caused by the use of this tool.
