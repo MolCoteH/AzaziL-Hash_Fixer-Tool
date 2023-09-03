@@ -12,7 +12,7 @@ The **AzaziL-Hash_Fixer-Tool** is a command-line program designed to repair dama
 
 4. Run the program by executing the following command:
 
-   `````
+   ```
    python azazil_hash_fixer_tool.py
    ```
 
