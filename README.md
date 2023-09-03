@@ -44,6 +44,9 @@ Do you want to delete them? (Y/N): y
 Text after removing uppercase characters: 1bdf2
 ```
 
+![photo_2023-09-03_03-46-28](https://github.com/MolCoteH/AzaziL_Hash_Fixer/assets/121525098/d6758819-c217-403b-8ae7-779b9f49b607)
+
+
 In this example, the input text contains two uppercase characters (`A` and `C`). The user chooses to delete them, and the resulting text is `1bdf2`.
 
 ## Where to Use
